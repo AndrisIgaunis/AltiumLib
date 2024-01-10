@@ -50,3 +50,7 @@ Thumbs.db
 
 *.~(*
 *.STEPPreview
+__Previews/
+*.$$$
+*.htm
+Companies/WurthElektronik/

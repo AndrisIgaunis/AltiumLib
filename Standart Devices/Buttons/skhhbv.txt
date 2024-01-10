@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04022015-103948";"";
+"REFERENCE";"SKHHBV";"";
+"TraceParts.PartTitle";"Black Button Tactile Switch, SPST-NO 0.05 A@ 12 V";"";
+"TraceParts.InstanceId";"10-04022015-1039488H751PCVTRKESJGGKVDYKU59N";"";
+"DESIGN";"Black Button Tactile Switch, SPST-NO 0.05 A@ 12 V";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ALPS";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ALPS:/F_ALPS/10-04022015-103948";"";
